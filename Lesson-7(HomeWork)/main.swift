@@ -85,5 +85,5 @@ case "a": print("Ответ неверный")
 case "b": print("Неправильно!")
 case "c": print("НЕТ!")
 case "d": print("И это правильный ответ")
-default: ("Нет такого ответа")
+default: break
 }
